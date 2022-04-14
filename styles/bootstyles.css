@@ -1,0 +1,35 @@
+.header{
+    height: 100px;
+    background-color: lightgray;
+    line-height: 100px;
+    text-align: center;
+}
+
+.topRight{
+    top:0px;
+    right:30px;
+    position: absolute;
+    line-height:3;
+}
+
+.main{
+    height:100px;
+    background-color: azure;
+    line-height: 100px;
+}
+
+.footer{
+    height:100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+    text-align: center
+}
+
+.footer2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header2 {
+    font-weight: bold
+}
